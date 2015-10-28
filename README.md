@@ -4,6 +4,7 @@ Javascript/jQuery [Fall 2015]
 ### featuring... 
  * @brandonjp
  * @avr
+ * @uncripted
  * @YScuba
  * @sound551970
 
